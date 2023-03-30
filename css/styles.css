@@ -1,0 +1,111 @@
+body{
+    background-color: rgb(229, 253, 253);
+    text-align: center;
+} 
+.first{
+    color:  #66BFBF;
+    margin-top: 75px ;
+    margin-bottom: -14px;
+    font-size: 5rem;
+    font-family: 'Sacramento', cursive;
+
+}
+.subheading{
+    color:#66BFBF;
+    font-size:2.4rem;
+    margin-top: 0px;
+    font-family: 'Mr Dafoe', cursive;
+}
+.bottomcloud{
+    position: absolute; 
+    top: 20%;
+    left: 20%;
+}
+.topcloud{
+    position: absolute;
+    top:10%;
+    left: 70%;
+}
+h3{
+    color: #11999E;
+}
+h2{
+    color: #11999E;
+}
+.size{
+    max-width:15rem;
+    max-height: 15rem;
+    padding-top: 50px;
+}
+.img{
+    
+    width: 40%;
+
+}
+.secondskills{
+    width: 40%;
+    
+}
+.skills{
+   margin:auto ;
+    width: 60%;
+ 
+}
+.flo{
+  margin-left: 10;
+    float: right;
+    padding-right: 100px;
+}
+.thirdskills{
+    float: left;
+   
+}
+.skill-row{
+    padding-top: 20px;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 18px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .bottom-container{
+    color: #ffffff;
+    margin: 0;
+    margin-top: 40px;
+    padding: 50px 0px 20px 0px;
+    width: auto;
+    height: 50px;
+    background-color: #52bdc3;
+
+  }
+.footer-link{
+    color: #03191a; 
+    margin: 10px 20px;
+}
+.footer-link:hover{
+    color: rgb(238, 225, 225);
+}
+.contact-me{
+   margin-bottom: 50px;
+}
